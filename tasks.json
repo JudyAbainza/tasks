@@ -1,37 +1,26 @@
-{
-  "Activities": [
-    {
-      "id": 1,
-      "activity": "Jogging",
-      "details": "Run at least 3 kilometers",
-      "group": 1
-    },
-    {
-      "id": 2,
-      "activity": "Grocery Shopping",
-      "details": "Buy vegetables, fruits, and snacks",
-      "group": 2
-    },
-    {
-      "id": 3,
-      "activity": "Project Proposal",
-      "details": "Finalize and submit by Friday",
-      "group": 3
-    }
-  ],
-  "groups": [
-    {
-      "id": 1,
-      "title": "Fitness"
-    },
-    {
-      "id": 2,
-      "title": "Errands"
-    },
-    {
-      "id": 3, 
-      "title": "Work"
-    }
-  ]
-}
-      
+[
+  {
+    "id": 1,
+    "title": "shopping",
+    "description": "buy Tomato",
+    "priority": "medium",
+    "dueDate": "15/12/2023",
+    "completed": true
+  },
+  {
+    "id": 2,
+    "title": "travel",
+    "description": "go to Dubai",
+    "priority": "high",
+    "dueDate": "17/12/2023",
+    "completed": false
+  },
+  {
+    "id": 3,
+    "title": "exercise",
+    "description": "morning workout",
+    "priority": "low",
+    "dueDate": "20/12/2023",
+    "completed": false
+  }
+]
