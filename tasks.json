@@ -1,26 +1,26 @@
 [
   {
     "id": 1,
-    "title": "exercise",
+    "title": "Exercise",
     "description": "morning workout",
     "priority": "low",
-    "dueDate": "20/12/2023",
+    "dueDate": "25/03/2025",
     "completed": false
   },
   {
     "id": 2,
-    "title": "shopping",
+    "title": "Shopping",
     "description": "buy groceries",
     "priority": "medium",
-    "dueDate": "15/12/2023",
+    "dueDate": "05/04/2025",
     "completed": true
   },
   {
     "id": 3,
-    "title": "travel",
+    "title": "Travel",
     "description": "go to Dubai",
     "priority": "high",
-    "dueDate": "17/12/2023",
+    "dueDate": "25/12/2025",
     "completed": false
   },
 ]
