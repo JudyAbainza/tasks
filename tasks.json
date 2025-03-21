@@ -1,26 +1,26 @@
 [
   {
     "id": 1,
+    "title": "exercise",
+    "description": "morning workout",
+    "priority": "low",
+    "dueDate": "20/12/2023",
+    "completed": false
+  },
+  {
+    "id": 2,
     "title": "shopping",
-    "description": "buy Tomato",
+    "description": "buy groceries",
     "priority": "medium",
     "dueDate": "15/12/2023",
     "completed": true
   },
   {
-    "id": 2,
+    "id": 3,
     "title": "travel",
     "description": "go to Dubai",
     "priority": "high",
     "dueDate": "17/12/2023",
     "completed": false
   },
-  {
-    "id": 3,
-    "title": "exercise",
-    "description": "morning workout",
-    "priority": "low",
-    "dueDate": "20/12/2023",
-    "completed": false
-  }
 ]
